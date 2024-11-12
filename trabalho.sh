@@ -4,3 +4,5 @@
 
 mkdir -p joao
 mkdir  mauricio
+ls
+dd
